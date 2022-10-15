@@ -108,3 +108,27 @@ INSERT INTO track(track_name, duration, id_album)
   
 INSERT INTO track(track_name, duration, id_album)
   VALUES('Dream on', '00:03:37', 8);
+  
+ INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 1', 2016);
+  
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 2', 2017);
+  
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 3', 2018);
+  
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 4', 2019);
+  
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 5', 2020);
+
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 6', 2020);
+  
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 7', 2021);
+
+INSERT INTO compilation(complilation_name, release_year)
+  VALUES('Compliation 8', 2022);
