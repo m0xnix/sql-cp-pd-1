@@ -132,3 +132,27 @@ INSERT INTO compilation(complilation_name, release_year)
 
 INSERT INTO compilation(complilation_name, release_year)
   VALUES('Compliation 8', 2022);
+
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(1, 1);
+
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(2, 2);
+ 
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(3, 3);
+  
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(4, 2);
+  
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(5, 4);
+  
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(6, 1);
+  
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(7, 5);
+  
+INSERT INTO artistgenre(artist_id, genre_id)
+  VALUES(8, 5);
