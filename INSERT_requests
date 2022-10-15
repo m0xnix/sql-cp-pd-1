@@ -60,3 +60,51 @@ INSERT INTO album(album_name, release_year)
 
 INSERT INTO album(album_name, release_year)
   VALUES('Leave Home', 1977);
+
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Moment of silence', '00:02:00', 1);
+
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Get Lucky', '00:04:00', 2);
+ 
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Happiest song ever', '00:04:00', 3);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Divide by zero', '00:05:34', 4);
+
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Sad song', '00:01:34', 5);
+
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Dummy', '00:03:34', 6);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Let it be', '00:02:34', 7);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Hey ho!', '00:04:34', 8);
+
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Sweet love', '00:02:54', 1);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Magic moments', '00:03:36', 2);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Dark song', '00:05:34', 3);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('This is my way', '00:02:17', 4);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('I lost my honor', '00:02:34', 5);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Where is my love?', '00:04:34', 6);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('How much is the fish?', '00:03:12', 7);
+  
+INSERT INTO track(track_name, duration, id_album)
+  VALUES('Dream on', '00:03:37', 8);
