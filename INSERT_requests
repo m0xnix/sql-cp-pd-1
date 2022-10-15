@@ -1,0 +1,62 @@
+INSERT INTO artist(artist_name)
+  VALUES('Morcheeba');
+
+INSERT INTO artist(artist_name)
+  VALUES('Daft Punk');
+
+INSERT INTO artist(artist_name)
+  VALUES('E67');
+
+INSERT INTO artist(artist_name)
+  VALUES('Pivnoy Cowboy');
+  
+INSERT INTO artist(artist_name)
+  VALUES('Mowgai');
+
+INSERT INTO artist(artist_name)
+  VALUES('Portishead');
+  
+INSERT INTO artist(artist_name)
+  VALUES('ABBA');
+  
+INSERT INTO artist(artist_name)
+  VALUES('The Ramones');
+  
+INSERT INTO genre(genre_name)
+  VALUES('trip-hop');
+  
+INSERT INTO genre(genre_name)
+  VALUES('electronic');
+  
+INSERT INTO genre(genre_name)
+  VALUES('techno');
+
+INSERT INTO genre(genre_name)
+  VALUES('post-rock');
+  
+INSERT INTO genre(genre_name)
+  VALUES('punk');
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('I was there', 2018);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Daft Punk rules', 2018);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Tapes 0', 2017);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Impossibilism', 2020);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Silence', 2004);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Dummy', 1994);
+  
+INSERT INTO album(album_name, release_year)
+  VALUES('Voyage', 2021);
+
+INSERT INTO album(album_name, release_year)
+  VALUES('Leave Home', 1977);
